@@ -1,3 +1,6 @@
+
+Usage : [Just Click XD](https://ekids1234.github.io/Splatoon_video_recommand)
+
 作為推坑用，原本用 txt 檔紀錄自己喜歡的影片給朋友
 
 ... 發現太 low 了 ! 給不出去 ! 
